@@ -1,10 +1,7 @@
-repositry name :Noble prize
+repositry name : Noble prize
 branch : main 
 remote : origin
 version: 1.0
 
-repositry name :Noble prize
-branch : main 
-remote : origin
-version: 2.0
+
 
